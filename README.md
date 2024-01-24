@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm i react react-quill react-quill-emoji quill-focus quill-paste-smart quill-cursors quill-better-table`
+
+install the above given packages to use all the packages.
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -13,6 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
 
 ### `npm test`
 
